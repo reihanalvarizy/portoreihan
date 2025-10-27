@@ -1,8 +1,11 @@
 # Ray's Portfolio Website ✨💻
 
-## Deskripsi Proyek Singkat
+## Deskripsi Projek Singkat 📝
+Ray's Portfolio Website dibuat sebagai media untuk menampilkan profil, keterampilan, pengalaman, dan kontak secara interaktif.  
+Projek ini dikembangkan menggunakan HTML, CSS (Bootstrap + custom styles), dan JavaScript dengan fokus pada tampilan yang responsif serta animasi yang halus.  
 
-Proyek ini adalah **personal portfolio website** untuk **Reihan Alvarizy** (Ray). Tujuannya adalah untuk menampilkan profil, keterampilan, pengalaman, dan kontak dari seorang mahasiswa Teknik Informatika yang bersemangat dalam dunia teknologi.
+Website ini menghadirkan efek animasi scroll reveal, interaksi hover pada kartu, dan progress bar yang terisi otomatis untuk menciptakan pengalaman pengguna yang dinamis dan menarik.  
+Tujuan utamanya adalah menghadirkan portofolio digital yang modern, informatif, dan merepresentasikan semangat dalam bidang teknologi dan pengembangan web.
 
 ### 🛠️ Teknologi yang Digunakan
 
@@ -20,7 +23,7 @@ Proyek ini adalah **personal portfolio website** untuk **Reihan Alvarizy** (Ray)
 * **Modal Galeri Proyek 🖼️:** Menggunakan **Modal Bootstrap** untuk menampilkan gambar proyek (*screenshot*) secara penuh (zoom) di halaman **Skills**.
 * **Halaman Pengalaman Organisasi 🎓:** Menampilkan pengalaman pendidikan dan organisasi dalam format *card* yang informatif.
 
-## Struktur File Proyek 📁
+## Struktur File Projek 📁
 
 * `index.html`: Halaman **HOME** (Beranda) dengan perkenalan utama.
 * `aboutme.html`: Halaman **ABOUT ME** (Tentang Saya) dengan profil dan minat.
@@ -32,11 +35,33 @@ Proyek ini adalah **personal portfolio website** untuk **Reihan Alvarizy** (Ray)
 
 ## Screenshot Tampilan Website 📸
 
-*Sediakan gambar berformat .png atau .jpg di sini.*
+### 1. Home Page
 
-| Halaman HOME | Halaman ABOUT ME | Halaman SKILLS | Halaman EXPERIENCE | Halaman CONTACTS |
-| :---: | :---: | :---: | :---: | :---: |
-|  |  |  |  |  |
+![Home Page Screenshot](screenshots/home.png)
+
+### 2. About Me Page
+
+![About Me Page Screenshot](screenshots/aboutme.png)
+
+### 3. Skills Page
+
+![Skills Page Screenshot (Programming & Tools)](screenshots/skill1.png)
+
+![Skills Page Screenshot (Portfolio)](screenshots/skill2.png)
+
+### 4. Experience Page
+
+![Experience Page Screenshot (Education)](screenshots/experience1.png)
+
+![Experience Page Screenshot (Organizations)](screenshots/experience2.png)
+
+### 5. Contacts Page
+
+![Contacts Page Screenshot](screenshots/contact.png)
+
+Halaman contacts dilengkapi dengan fitur link href yang jika logo/link ditekan, akan langsung <i>direct</i> menuju tujuan social media masing-masing. 
+
+---
 
 ## Link Video YouTube ▶️
 [https://youtu.be/QJieYqAVLCc]
